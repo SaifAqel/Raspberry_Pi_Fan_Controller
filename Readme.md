@@ -25,18 +25,12 @@ sudo apt install python3-rpi.gpio
 
 ## 🚀 Usage
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/pi-fan-controller.git
-cd pi-fan-controller
-```
-
-2. Run the script:
+1. Run the script:
 ```bash
 python3 main.py
 ```
 
-3. When prompted, choose a mode:
+2. When prompted, choose a mode:
 ```
 Select mode [smooth / stepped]: smooth
 ```
