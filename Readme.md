@@ -59,7 +59,7 @@ Fan Ground (black)           → GND
 ## 👨‍💻 Author
 
 Modified and extended by **Saif Aqel**
-Originally created by [mklements]
+Originally created by [Michael Klements](https://www.the-diy-life.com/connecting-a-pwm-fan-to-a-raspberry-pi/).
 
 ---
 
